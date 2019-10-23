@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227646627681",
+    "firebase_url": "https://mimickme-50872.firebaseio.com",
+    "project_id": "mimickme-50872",
+    "storage_bucket": "mimickme-50872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227646627681:android:5f7c4e8455bf3325382f20",
+        "android_client_info": {
+          "package_name": "com.example.andrewspc.mimickme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227646627681-9pe5mvusfclbiajefsp04551p1deasc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andrewspc.mimickme",
+            "certificate_hash": "19b3cdb6095e36ac77e9e56af145be394b136447"
+          }
+        },
+        {
+          "client_id": "227646627681-s34fepqbt1g2m2r1b8te23d73q80t4uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApLeV1EzQY2oiUvIb12CdTgJTqNbR5c3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227646627681-s34fepqbt1g2m2r1b8te23d73q80t4uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
